@@ -1,0 +1,13 @@
+Quantum Annealing Results:
+Quantum Annealing Time: 3.258903980255127 seconds
+Number of unique variants explored by Quantum Annealing: 100
+
+Brute-force Results:
+Brute-force Time: 1.169633150100708 seconds
+Number of unique variants explored by Brute-force: 3200000
+
+Comparison of Results:
+Quantum Annealing Time: 3.258903980255127 seconds
+Brute-force Time: 1.169633150100708 seconds
+Number of variants by Quantum: 100
+Number of variants by Brute-force: 3200000
